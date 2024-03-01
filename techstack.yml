@@ -1,8 +1,8 @@
 repo_name: stackshareio/spring-boot-demo
-report_id: d51e369276e410bcc4b9d64b3f9dcc7b
+report_id: cfbb46bcb6cea0a1abd0a73f1d54a88c
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-16T00:24:10+00:00'
+timestamp: '2024-03-01T20:37:32+00:00'
 requested_by: xkcoding
 provider: github
 branch: master
@@ -22,6 +22,19 @@ tools:
   detection_source: Repo Metadata
   last_updated_by: Yangkai.Shen
   last_updated_on: 2018-10-11 05:36:34.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/stackshareio/spring-boot-demo/blob/master/demo-codegen/src/main/resources/static/libs/iview/iview.min.js
+  detection_source: demo-codegen/src/main/resources/static/libs/iview/iview.min.js
+  last_updated_by: Yangkai.Shen
+  last_updated_on: 2019-03-22 12:56:50.000000000 Z
 - name: Lua
   description: Powerful, fast, lightweight, embeddable scripting language
   website_url: http://www.lua.org/
@@ -87,21 +100,7 @@ tools:
   detection_source_url: https://github.com/stackshareio/spring-boot-demo/blob/master/.github/workflows/maven.yml
   detection_source: ".github/workflows/maven.yml"
   last_updated_by: Yangkai.Shen
-  last_updated_on: 2019-08-29 03:25:02.000000000 Z
-- name: Istio
-  description: Open platform to connect, manage, and secure microservices, by Google,
-    IBM, and Lyft
-  website_url: https://istio.io/
-  license: Apache-2.0
-  open_source: true
-  hosted_saas: false
-  category: Build, Test, Deploy
-  sub_category: Microservices Tools
-  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
-  detection_source_url: https://github.com/stackshareio/spring-boot-demo/blob/master/demo-cache-redis/src/main/resources/application.yml
-  detection_source: demo-cache-redis/src/main/resources/application.yml
-  last_updated_by: Yangkai.Shen
-  last_updated_on: 2018-11-15 12:04:24.000000000 Z
+  last_updated_on: 2019-08-29 03:33:53.000000000 Z
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
     projects
