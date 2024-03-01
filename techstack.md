@@ -4,12 +4,12 @@
 stackshareio/spring-boot-demo is built on the following main stack:
 
 - [Java](https://www.java.com) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Lua](http://www.lua.org/) – Languages
 - [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [Istio](https://istio.io/) – Microservices Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 - [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
@@ -22,12 +22,12 @@ Full tech stack [here](/techstack.md)
 stackshareio/spring-boot-demo is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'/> [Java](https://www.java.com) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png' alt='SQL'/> [SQL](https://en.wikipedia.org/wiki/SQL) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg' alt='Apache FreeMarker'/> [Apache FreeMarker](http://freemarker.incubator.apache.org/index.html) – Java Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'/> [Istio](https://istio.io/) – Microservices Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg' alt='Apache Camel'/> [Apache Camel](https://camel.apache.org/) – Platform as a Service
 
@@ -40,11 +40,11 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [stackshareio/spring-boot-demo](https://github.com/stackshareio/spring-boot-demo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|02/16/24 <br/>Report generated|
+|10<br/>Tools used|03/01/24 <br/>Report generated|
 |------|------|
 </div>
 
-## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
+## <img src='https://img.stackshare.io/languages.svg'/> Languages (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/995/K85ZWV2F.png' alt='Java'>
@@ -52,6 +52,14 @@ Full tech stack [here](/techstack.md)
   <sub><a href="https://www.java.com">Java</a></sub>
   <br>
   <sub>v1.8</sub>
+</td>
+
+<td align='center'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'>
+  <br>
+  <sub><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></sub>
+  <br>
+  <sub></sub>
 </td>
 
 <td align='center'>
@@ -86,7 +94,7 @@ Full tech stack [here](/techstack.md)
 </tr>
 </table>
 
-## <img src='https://img.stackshare.io/devops.svg'/> DevOps (5)
+## <img src='https://img.stackshare.io/devops.svg'/> DevOps (4)
 <table><tr>
   <td align='center'>
   <img width='36' height='36' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'>
@@ -108,14 +116,6 @@ Full tech stack [here](/techstack.md)
   <img width='36' height='36' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'>
   <br>
   <sub><a href="https://github.com/features/actions">GitHub Actions</a></sub>
-  <br>
-  <sub></sub>
-</td>
-
-<td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/service/7028/AGpa5VZV.jpg' alt='Istio'>
-  <br>
-  <sub><a href="https://istio.io/">Istio</a></sub>
   <br>
   <sub></sub>
 </td>
